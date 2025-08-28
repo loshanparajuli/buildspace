@@ -13,7 +13,9 @@ const App = () => {
           </div> 
         </div>
       </div>
-      <div className='text-white w-[70%] h-full border border-pink-200'><iframe width="560" height="315" src="https://www.youtube.com/embed/gDwmYYKzin0?si=LO66IAkmibyexPBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+      <div className='text-white w-[70%] h-full border border-pink-200'>
+        <iframe src="https://western-salesman-c9f.notion.site/ebd/1ced3b9e96b28085ab26ed8554272c71" width="100%" height="600" frameborder="0" allowfullscreen />
+      </div>
     </div>
       
   )
