@@ -26,8 +26,8 @@ const App = () => {
 
       {/* right part */}
       <div className='text-white w-[100%] xl:w-[61%] h-[100vh] relative'>
-        <div className='w-full h-auto  absolute bg-black/45'></div>
-        <video src="/buildSpaceVideo.mp4"  className='w-full h-full object-cover' autoPlay loop muted></video>
+        <div className='w-full h-full  absolute bg-black/40'></div>
+        <video src="/flowerboomVideo.mp4"  className='w-full h-full object-cover' autoPlay loop muted></video>
       </div>
     </div>
     </main>
